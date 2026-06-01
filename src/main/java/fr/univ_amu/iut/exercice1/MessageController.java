@@ -30,6 +30,7 @@ public class MessageController {
   private void initialize() {
     // TODO exercice 1 : brancher la vue sur le ViewModel.
     //
+
     // - Liaison BIDIRECTIONNELLE entre le champ de saisie et texteProperty()
     //   (ce que tape l'utilisateur va dans le ViewModel, et inversement) :
     //     champTexte.textProperty().bindBidirectional(viewModel.texteProperty());
